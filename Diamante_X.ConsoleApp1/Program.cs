@@ -47,7 +47,7 @@
                         Console.Write("X");
                     }
                     Console.WriteLine();
-                    #endregion
+                    #endregion 
 
 
                     #region //parte de inferior
@@ -69,6 +69,7 @@
                         Console.WriteLine("");
                     }
                     #endregion
+
                 }
                 else if (opcao== 0)
                     break;
